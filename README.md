@@ -6,6 +6,8 @@ Meu nome é Ícaro Emanuel, atualmente estudo desenvolvimento web fullstack na T
 * Testes automatizados com Jest e RTL;
 * React;
 * CSS;
+* NodeJs,
+* Bancos de dados relacionais
 * Estou evoluindo minhas habilidades como desenvolvedor com a finalidade de dominar o Front-end e o Back-end utilizando as tecnologias CSS, React, Redux, NodeJs e SQL e várias outras;
 * Meus hobbies são assistir séries, viajar, passar um tempo de qualidade com minha família e de vez em quando me divertir com alguns jogos de simulação;
 # Linguagens e ferramentas
