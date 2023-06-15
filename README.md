@@ -1,6 +1,6 @@
 ### Olá pessoal,
 
-Meu nome é Ícaro Emanuel, atualmente estudo Desenvolvimento Web fullstack na Trybe
+Meu nome é Ícaro Emanuel e sou desenvolvedor Web
 
 ### Entre em contato comigo:
 E-mail: icaro.emanuel@outlook.com <br /> 
